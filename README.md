@@ -1,6 +1,6 @@
 - 👋 Ola! Meu nome é Derrick André Nascimento Pereira
-- 👀 Estou interessado em aprender tudo oque posso em relação a desenvolviento de software e praticar oque aprendo em projetos e, se possivel em estagios.
-- 🌱 Estou aprendendo atulamente varias linguagens de programação tanto de backend quanto de frontend, me interesso bastante em machine learning e inteligencia artificial
+- 👀 Estou interessado em aprender tudo o'que posso em relação a desenvolvimento de software e praticar oque aprendo em projetos e, assim que possivel em vagas de emprego. 
+- 🌱 Estou aprendendo atulamente varias linguagens de programação tanto de backend quanto de frontend, me interesso bastante em machine learning e inteligencia artificial.
 - 📫 Como me alcançar:pelo email derrickpereira1998@gmail.com
 
 <!---
