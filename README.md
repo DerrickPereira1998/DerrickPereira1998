@@ -26,7 +26,8 @@ Possuo experiência profissional de um ano com desevolvimento de software que ad
 
 Oque eu não sei, estou aprendendo.
 
-![Github de Derrick Pereira](https://github-readme-stats.vercel.app/api?username=DerrickPereira1998&show_icons=true&theme=synthwave)
+![Github de Derrick Pereira](https://github-readme-stats.vercel.app/api?username=DerrickPereira1998&show_icons=true&theme=synthwave) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DerrickPereira1998&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 DerrickPereira1998/DerrickPereira1998 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
