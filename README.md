@@ -26,10 +26,7 @@ Possuo experiência profissional de um ano com desevolvimento de software que ad
 
 Oque eu não sei, estou aprendendo.
 
-- 👀 Estou interessado em aprender tudo o'que posso em relação a desenvolvimento de software e praticar oque aprendo em projetos e, assim que possivel em vagas de emprego. 
-- 🌱 Estou aprendendo atulamente varias linguagens de programação tanto de backend quanto de frontend, me interesso bastante em machine learning e inteligencia artificial.
-- 📫 Como me alcançar: pelo email derrickpereira1998@gmail.com
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=synthwave)
 <!---
 DerrickPereira1998/DerrickPereira1998 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
