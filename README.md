@@ -28,6 +28,12 @@ Oque eu não sei, estou aprendendo.
 
 ![Github de Derrick Pereira](https://github-readme-stats.vercel.app/api?username=DerrickPereira1998&show_icons=true&theme=synthwave) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DerrickPereira1998&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+## Meus Principais Projetos:
+- [Meu Portfólio - ReactJS](https://portfolio-derrickpereira1998.vercel.app/)<br/>
+- [Royal Tech Store - ReactJS](https://royal-tech-store.vercel.app/)<br/>
+- [Blogapp - Javascript](https://blogapp-ylzt.onrender.com)<br/>
+- [TrueTravel - Outsystems](https://personal-9b7bfgu4.outsystemscloud.com/TrueTravel/)
+
 <!---
 DerrickPereira1998/DerrickPereira1998 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
