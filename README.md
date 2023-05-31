@@ -4,15 +4,16 @@
 
 ## Sobre Mim:
 
-Estudante de Analise e Desenvolvimento de Sistemas com uma paixão por desenvolvimento de software em busca de novas oportunidades, estou disposto a me dedicar a aprender e a superar expectativas.
+Estudante de Analise e Desenvolvimento de Sistemas com uma paixão por desenvolvimento de software em busca de novas oportunidades, estou disposto a me dedicar a aprender novos conhecimentos e a superar expectativas.
 
 Possuo experiência profissional de um ano com desevolvimento de software que adquiri através do meu cargo de Desenvolvedor Outsystems Junior durante meu período na Truewind, que também me proporcionou experiência com Low-code e SQL na plataforma Outsystems. 
 
-Dedico meu tempo aprimorando minhas abilidades como desenvolvedor -end, focando em estudar : Java, NodeJs, Python, SQL e aprimorar ainda mais meus conhecimentos em front-end com HTML, CSS, JavaScript e React.
-
 ## Habilidades:
 
-### Linguagens: <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+### Linguagens: <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+
+### Front-End: <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
+
 
 
 
